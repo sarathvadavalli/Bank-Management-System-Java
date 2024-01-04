@@ -1,0 +1,4 @@
+Bank Mangement System:
+                       The bank management system is a good project which gives a real time experience of online banking system. It is developed using Java programming languages which involves various concepts especially JDBC which connects the java program to database and stores the details of differet users. 
+
+                       Firstly, It does authentication by asking username and password. If the credentials are valid, the user can see 4 options of which he can select any one of them. The 4 features are deposit, withdraw, view previous transaction and view balance.
